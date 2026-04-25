@@ -3,7 +3,6 @@
 
 ### 🕵️‍♀️ Cyber Security Student | 💻 Full-Stack Developer
 
-![Visitor Count](https://mojo-counting.vercel.app/api/count?name=salwanettaa&theme=pink)
 
 # 💫 About Me:
 - 🎓 **Education:** 5th Semester IT Student @ President University<br>- 🔐 **Focus:** Cyber Security, Digital Forensics, & Web Security<br>- 🛠 **Stack:** MERN, Next.js, Laravel, FastAPI<br>- 🌟 **Current Project:** Building [Scholarz-Path](https://github.com/salwanettaa) & [TUAI](https://github.com/salwanettaa)
@@ -11,8 +10,7 @@
 
 ### 🛠 My Tech Toolbox
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,laravel,py,gcp,supabase)](https://skillicons.dev)
-
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=salwanettaa&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
