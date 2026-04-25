@@ -2,10 +2,12 @@
 # Hi, I'm Netta!
 
 ### 🕵️‍♀️ Cyber Security Student | 💻 Full-Stack Developer
-
+---
 
 # 💫 About Me:
-- 🎓 **Education:** 5th Semester IT Student @ President University<br>- 🔐 **Focus:** Cyber Security, Digital Forensics, & Web Security<br>- 🛠 **Stack:** MERN, Next.js, Laravel, FastAPI<br>- 🌟 **Current Project:** Building [Scholarz-Path](https://github.com/salwanettaa) & [TUAI](https://github.com/salwanettaa)
+- 🎓 **Education:** 5th Semester IT Student @ President University<br>
+- 🔐 **Focus:** Cyber Security, Digital Forensics, & Web Security<br>
+
 ---
 
 ### 🛠 My Tech Toolbox
